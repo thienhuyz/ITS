@@ -1,0 +1,19 @@
+# Bỏ qua các tệp video
+*.mp4
+
+# Bỏ qua thư mục ảo và cache của Python
+.venv/
+__pycache__/
+
+# Bỏ qua các tệp log
+*.log
+
+# Bỏ qua các tệp tạm thời do hệ thống tạo ra
+*~
+*.swp
+
+/data/
+
+
+
+
